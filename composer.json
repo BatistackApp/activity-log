@@ -1,5 +1,5 @@
 {
-    "name": "relaticle/activity-log",
+    "name": "batistackapp/activity-log",
     "description": "Reusable Filament plugin that renders a unified activity-log timeline for any Eloquent model",
     "type": "library",
     "license": "MIT",
